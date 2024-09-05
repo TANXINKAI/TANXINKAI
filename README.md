@@ -9,7 +9,7 @@
 
 <h1>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1400&height=120&lines=🔧+Always+learning+always+improving;🤝+Let's+connect+🌐" alt="Typing SVG" /> </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1400&height=120&lines= 🖥️+Fullstack+engineer;🤖+AI+engineer;🔍+Cybersecurity+analyst;🔧+Always+learning+always+searching;🤝+Let's+connect+🌐" alt="Typing SVG" /> </a>
 </h1>
 
 <!-- - 🔭 I’m currently working on [Eptah](https://github.com/TANXINKAI/Eptah) -->
